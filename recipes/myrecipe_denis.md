@@ -1,6 +1,6 @@
 How to make Paneer Chilli Recipe
 
-by Denis
+by Denis !  [baleine] (/home/denis/Desktop/PICT/DSC02050.JPG)
 
 ![photo of the Paneer Chili](http://www.foodista.com/sites/default/files/styles/thumb_270x175/public/Paneer%20Chilli.jpg)
 
