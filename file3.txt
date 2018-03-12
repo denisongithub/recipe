@@ -18,11 +18,11 @@
 
 
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-a4bf54bef6fb.css" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-ac2ce2821692.css" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-a4bf54bef6fb.css" integrity="sha512-pL9Uvvb7LMqGC8jv/AyqZ7Ya6/HTgkhZzKwEsHOdsfaW2pr3fgzqjgKUSJfYkZ/klxwHrcu+tZwtNDTuw8vH6Q==" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-ac2ce2821692.css" integrity="sha512-rCzighaSpHExGRE92llR25LZC8/MLJasLsUQy1tLhH7xcN5gCVI6h5zhvCpX4b2Nkiw02aytdPF7WOfWUB/6iQ==" media="all" rel="stylesheet" />
   
   
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-5716602cf891.css" media="all" rel="stylesheet" />
+  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/site-5716602cf891.css" integrity="sha512-VxZgLPiRT4wMogNRwy9qVO15+ta9te/mxcvjePEjWO2b2X0gEhyzdPUdn+4AHiRMvxhOPuh5U2UA1DLmOXcKBQ==" media="all" rel="stylesheet" />
   
 
   <meta name="viewport" content="width=device-width">
@@ -40,7 +40,7 @@
   
   <meta name="pjax-timeout" content="1000">
   
-  <meta name="request-id" content="BBB1:477C:2C0B45F:4FA3863:5AA64D04" data-pjax-transient>
+  <meta name="request-id" content="8194:477D:35D6BE5:60AD25C:5AA652F8" data-pjax-transient>
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
@@ -50,7 +50,7 @@
   <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="BBB1:477C:2C0B45F:4FA3863:5AA64D04" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="8194:477D:35D6BE5:60AD25C:5AA652F8" name="octolytics-dimension-request_id" /><meta content="iad" name="octolytics-dimension-region_edge" /><meta content="iad" name="octolytics-dimension-region_render" />
 <meta content="https://github.com/hydro_browser_events" name="hydro-events-url" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
@@ -66,11 +66,11 @@
     <meta name="user-login" content="">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="M2M4Y2QzOTk0MTdjYmFiOGZmZmRkYTVkZjQzNjVmYTBkZTcyOTViMjIyYTM3NDAzZGZlMTlmZTRjNzc2MDg5Znx7InJlbW90ZV9hZGRyZXNzIjoiMTk0LjI1NC4yMjUuMjQxIiwicmVxdWVzdF9pZCI6IkJCQjE6NDc3QzoyQzBCNDVGOjRGQTM4NjM6NUFBNjREMDQiLCJ0aW1lc3RhbXAiOjE1MjA4NDgxMzMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+    <meta name="js-proxy-site-detection-payload" content="YjZkYzg1OTU5NTMzZmFiNzI5MzcwZjlkYTg4YzgyNWEwODBhZmU4ZjAxZWY2Zjg4Y2MwNDRmZDIxYTMxNzkyZnx7InJlbW90ZV9hZGRyZXNzIjoiMTk0LjI1NC4yMjUuMjQxIiwicmVxdWVzdF9pZCI6IjgxOTQ6NDc3RDozNUQ2QkU1OjYwQUQyNUM6NUFBNjUyRjgiLCJ0aW1lc3RhbXAiOjE1MjA4NDk2NjQsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,FREE_TRIALS,MARKETPLACE_INSIGHTS,MARKETPLACE_INSIGHTS_CONVERSION_PERCENTAGES,JS_ROLLUP">
 
-  <meta name="html-safe-nonce" content="3d1e512741ad68f5f4ab7af6e022597a56a951dc">
+  <meta name="html-safe-nonce" content="5b9610de96548acedcec35e6bbb79295632da9d1">
 
   <meta http-equiv="x-pjax-version" content="0ee3fa8b49f9e20b3f35d950963acbe0">
   
@@ -596,7 +596,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between py-6 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2018 <span title="0.22952s from unicorn-372282227-sv8g0">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2018 <span title="0.18771s from unicorn-372282227-jqx8n">GitHub</span>, Inc.</li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-terms-of-service/" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li class="mr-3"><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li class="mr-3"><a href="https://help.github.com/articles/github-security/" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -630,10 +630,10 @@
   </div>
 
 
-    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/compat-2420ba9258bd.js" type="application/javascript"></script>
-    <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-3a88f2643d5e.js" type="application/javascript"></script>
     
-    <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-8ae397f2e748.js" type="application/javascript"></script>
+    <script crossorigin="anonymous" integrity="sha512-OojyZD1elVncEOZW06GRzsRHIpnpcxKYh8pDxc0NJ9av+Y9MWxhDxpN6woVpS/O3yhvQBZePoO9fLVZnAmqwyg==" src="https://assets-cdn.github.com/assets/frameworks-3a88f2643d5e.js" type="application/javascript"></script>
+    
+    <script async="async" crossorigin="anonymous" integrity="sha512-iuOX8udI2TgUi5E/LzU7nKsv4Mrwst6xynU3zhJgcKmdGCnUAPaQYRuRcHmA60BNxnvPmzCR0g7rEI9UBr+UKw==" src="https://assets-cdn.github.com/assets/github-8ae397f2e748.js" type="application/javascript"></script>
     
     
     
