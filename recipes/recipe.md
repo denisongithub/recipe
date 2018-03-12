@@ -1,5 +1,9 @@
 How to make Paneer Chilli Recipe
 
+by Denis
+
+![photo of the Paneer Chili](http://www.foodista.com/sites/default/files/styles/thumb_270x175/public/Paneer%20Chilli.jpg)
+
 Ingredients
 1 Packet Ching's Secret Paneer Chilli Masala
 2 tbsp. of Oil
@@ -21,4 +25,4 @@ Add masala mixture & stir well. Bring to a boil & simmer for 2-3 minutes. For th
 Garnish with chopped spring onion & serve hot.
 
 Step 4:
-top some chocolat! Miam !
+Add chocolat chuncks on top ! Miam !
